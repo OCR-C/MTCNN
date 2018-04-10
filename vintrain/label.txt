@@ -1,2 +1,2 @@
 samples/00001.jpg 54 121 256 283
-samples/00002.jpg 
+samples/00002.jpg 75 70 274 225
